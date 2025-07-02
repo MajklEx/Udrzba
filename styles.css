@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 1em;
+  background: #f3f4f6;
+  color: #333;
+}
+
+h1, h2 {
+  margin: 0.5em 0;
+}
+
+input, textarea, select, button {
+  margin-top: 5px;
+  margin-bottom: 10px;
+  display: block;
+  width: 100%;
+  padding: 0.5em;
+  font-size: 1em;
+}
+
+.card {
+  background: white;
+  padding: 1em;
+  margin-bottom: 1em;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.green { background-color: #d1fae5; }
+.yellow { background-color: #fef9c3; }
+.red { background-color: #fee2e2; }
